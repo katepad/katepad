@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Kate!:
+# 💫 Hi, I'm Kate!
 💗 Computer Information Systems Student<br>
 💗 Passion for Data & Design
 
