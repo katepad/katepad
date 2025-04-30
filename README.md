@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I'm Kate! Welcome to my GitHub profile! <br>
+# 💫 Hi, I'm Kate!:
 💗 Computer Information Systems Student<br>
 💗 Passion for Data & Design
 
