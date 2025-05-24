@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Kate!
-💗 Computer Information Systems Student<br>
+💗 Computer Information Systems Graduate<br>
 💗 Passion for Data & Design
 
 ## 🌐 Socials:
