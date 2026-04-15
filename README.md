@@ -26,9 +26,10 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katepad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katepad&theme=synthwave&hide)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kate-tfr&theme=synthwave&hide)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kate-tfr&theme=synthwave&hide) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katepad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kate-tfr&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katepad&icon=7&color=10)](https://visitcount.itsvg.in)
