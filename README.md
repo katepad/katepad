@@ -27,7 +27,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katepad&theme=synthwave&hide)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katepad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katepad&icon=7&color=10)](https://visitcount.itsvg.in)
