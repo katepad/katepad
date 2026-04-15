@@ -28,7 +28,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katepad&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katepad&theme=synthwave&hide)
-![](https://nirzak-streak-stats.vercel.app/?user=katepad&theme=synthwave&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kate-tfr&theme=synthwave&hide)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=katepad&icon=7&color=10)](https://visitcount.itsvg.in)
