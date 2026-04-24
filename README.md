@@ -2,7 +2,7 @@
 💗 Computer Information Systems Graduate<br>
 💗 Frontend-Focused Software Engineer<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kate-paduganao)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katepad2020@gmail.com) 
 
@@ -26,7 +26,9 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats:
+## Personal:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=katepad&theme=synthwave&hide)
+## Work:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kate-tfr&theme=synthwave&hide)
 
 ---
